@@ -582,23 +582,13 @@ Pubblica Amministrazione con un'unica Identità Digitale da computer, tablet e s
 
 - [repubblica-digitale](https://github.com/italia/repubblica-digitale)
   <img align="right" src="https://img.shields.io/github/stars/italia/repubblica-digitale?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">
+  <img align="right" src="https://img.shields.io/github/issues/italia/repubblica-digitale" alt="GitHub issues">\
   repubblicadigitale.innovazione.gov.it
 
 - 👀 [comunica.italia.it](https://github.com/italia/comunica.italia.it)
   <img align="right" src="https://img.shields.io/github/stars/italia/comunica.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/comunica.italia.it" alt="GitHub issues">\
   comunica.italia.it
-
-- [hack.developers.italia.it](https://github.com/italia/hack.developers.italia.it)
-  <img align="right" src="https://img.shields.io/github/stars/italia/hack.developers.italia.it?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/hack.developers.italia.it" alt="GitHub issues">\
-  hack.developers.italia.it website
-
-- [italia.github.io](https://github.com/italia/italia.github.io)
-  <img align="right" src="https://img.shields.io/github/stars/italia/italia.github.io?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/italia.github.io" alt="GitHub issues">\
-  Github Pages for italia.github.io
 
 ## 💰 pagoPa
 
